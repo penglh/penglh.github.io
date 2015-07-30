@@ -234,3 +234,25 @@
         }
     }
 }
+
+.header-nav {
+    display: inline;
+}
+
+.header-h4 {
+    margin: 0;
+    display: inline;
+}
+
+.header-ul {
+    margin: 0;
+    display: inline;
+}
+
+.header-li {
+    background: brown;
+    color: white;
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px, 15px;
+}
